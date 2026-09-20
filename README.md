@@ -1,6 +1,6 @@
 # 🎓 University of Madras UG CGPA Calculator & Goal Simulator
 
-An interactive, privacy-focused web application designed for undergraduate (UG) students under the **University of Madras** 10-point grading system. Calculate semester SGPAs, overall degree CGPA, equivalent percentage, track academic progression visually, and simulate target GPA requirements. [Disclaimer](https://github.com/Pranav-MSK/CGPACalculator#-disclaimer)
+An interactive, privacy-focused web application designed for undergraduate (UG) students under the **University of Madras** 10-point grading system. Calculate semester SGPAs, overall degree CGPA, equivalent percentage, track academic progression visually, and simulate target GPA requirements. [Disclaimer](https://github.com/Pranav-MSK/CGPACalculator#%EF%B8%8F-disclaimer)
 
 ![Vue 3](https://img.shields.io/badge/Vue.js-3.x-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-6.x-646cff?style=for-the-badge&logo=vite&logoColor=white)
